@@ -1,1 +1,1 @@
-# OptimumResearch
+# AI Financial Planner
