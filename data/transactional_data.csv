@@ -1,0 +1,21 @@
+user_id,transactional_Dates,Transactional_catogories,Amount,description,type_of_transactions
+user_1,2024-05-03 11:03:29,Movie,433.5329415948403,Popcorn and drinks at the movies,expense
+user_1,2024-05-11 02:03:13,bills,342.96387799652916,Internet subscription renewal,income
+user_1,2024-05-03 18:29:11,food,439.7488216720245,Dinner at ABC restaurant,income
+user_1,2024-05-09 14:00:19,Movie,28.74602670309873,Popcorn and drinks at the movies,expense
+user_1,2024-05-04 06:05:19,Movie,223.8330030965979,Movie tickets for XYZ movie theater,expense
+user_1,2024-05-03 17:17:04,groceries,134.81402800790516,Vegetables and fruits from ABC store,income
+user_1,2024-05-04 10:38:58,groceries,188.46852117281944,Monthly grocery shopping at XYZ mart,expense
+user_1,2024-05-07 13:39:19,Movie,335.0598633701167,Movie tickets for XYZ movie theater,expense
+user_1,2024-05-05 18:49:24,Movie,336.77752301180755,Popcorn and drinks at the movies,expense
+user_1,2024-05-07 11:00:02,Movie,281.6621140567289,Movie tickets for XYZ movie theater,expense
+user_1,2024-05-13 03:46:14,bills,341.8857931836391,Electricity bill payment,expense
+user_1,2024-05-02 05:14:12,bills,278.4892344364921,Electricity bill payment,expense
+user_1,2024-05-07 07:18:39,Movie,112.98951559249454,Popcorn and drinks at the movies,expense
+user_1,2024-05-01 07:59:16,bills,226.65830165935563,Electricity bill payment,expense
+user_1,2024-05-04 23:29:11,groceries,332.8368650492267,Vegetables and fruits from ABC store,expense
+user_1,2024-05-09 22:26:46,food,411.0274976229655,Groceries from XYZ mart,expense
+user_1,2024-05-07 16:54:23,groceries,405.21581834237026,Monthly grocery shopping at XYZ mart,income
+user_1,2024-05-11 17:41:55,food,129.97284659839158,Dinner at ABC restaurant,income
+user_1,2024-05-02 00:54:52,bills,213.0760953888825,Electricity bill payment,expense
+user_1,2024-05-10 09:52:14,bills,205.82990280950347,Electricity bill payment,income
