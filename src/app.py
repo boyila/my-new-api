@@ -20,15 +20,15 @@ def talk_to_robert():
 
 # Define the content of each page
 def home_page():
-    st.write("Welcome to the home page")
+    st.write("<Financial health dashboard here>")
     talk_to_robert()
 
 def insights_page():
-    st.write("Welcome to the Insights Page!")
+    st.write("<insights and educational recomendations here>")
     get_insights()
 
 def alerts_page():
-    st.write("Welcome to the alerts Page!")
+    st.write("<Alerts list here>")
 
 st.title("FinThrivin")
 
