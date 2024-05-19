@@ -1,1 +1,8 @@
 pandas
+streamlit
+streamlit_chat
+streamlit_extras
+langchain
+langchain_community
+python-dotenv
+huggingface_hub
