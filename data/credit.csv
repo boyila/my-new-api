@@ -1,6 +1,0 @@
-user_id,credit_card_name,credit_limit,date_issued,date_closed
-user_1,Discover,4424.750523077404,2022-10-04,[None]
-user_1,Maestro,1500.95172895549,2022-11-20,[None]
-user_1,VISA 13 digit,2073.462910006634,2021-07-07,[None]
-user_1,Diners Club / Carte Blanche,1503.1559624261404,2022-06-12,[None]
-user_1,Diners Club / Carte Blanche,2293.0969035415255,2021-07-13,[None]
